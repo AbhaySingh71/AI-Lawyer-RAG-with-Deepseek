@@ -12,6 +12,15 @@
         <li>📜 Summarize legal documents</li>
         <li>📄 Generate downloadable AI-generated legal reports</li>
     </ul>
+
+## 📸 Project Demo  
+
+| ![Screenshot 1](assets/photo1.png) | ![Screenshot 2](assets/photo2.png) |  
+|---------------------------------|---------------------------------|  
+| ![Screenshot 3](assets/photo3.png) | ![Screenshot 4](assets/photo4.png) |  
+| ![Screenshot 5](assets/photo5.png) | ![Screenshot 6](assets/photo6.png) |  
+
+---
     
   <h2>📁 Project Structure</h2>
     <pre>
@@ -36,8 +45,8 @@
 
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
-git clone https://github.com/AbhaySingh71/AI-Powered-Healthcare-Intelligence-System.git
-cd AI-Powered-Healthcare-Intelligence-System
+git clone https://github.com/AbhaySingh71/AI-Lawyer-RAG-with-Deepseek.git
+cd AI-Lawyer-RAG-with-Deepseek
 </pre>
 
 <h3>2️⃣ Set Up the Virtual Environment</h3>
