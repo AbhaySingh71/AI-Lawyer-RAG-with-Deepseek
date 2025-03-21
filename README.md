@@ -51,7 +51,22 @@ venv\Scripts\activate  # On Windows
 <pre>
 pip install -r requirements.txt
 </pre>
-    
+
+ <h2>Deployment on Streamlit Cloud</h2>
+<h3>1️⃣ Push code to GitHub</h3>
+<pre>
+git add .
+git commit -m "Initial commit"
+git push origin main
+</pre>
+
+<h3>2️⃣ Deploy on Streamlit</h3>
+<ul>
+  <li>Go to <a href="https://share.streamlit.io/">Streamlit Cloud</a> → Deploy a new app.</li>
+  <li>Set <code>GROQ_API_KEY</code> in Streamlit Secrets.</li>
+  <li>Click <strong>Deploy!</strong> 🎉</li>
+</ul>
+
   <h2>🚀 Usage</h2>
     <ol>
         <li>Run the Streamlit application:</li>
@@ -69,6 +84,11 @@ pip install -r requirements.txt
         <li><strong>LLM Response:</strong> DeepSeek R1 generates answers.</li>
         <li><strong>Report Generation:</strong> AI generates a downloadable PDF report.</li>
     </ol>
+
+## 🌐 Deployed Version
+
+The app is deployed on **Streamlit**! You can check out the live version and explore the analysis on your own:[Streamlit App](https://ai-lawyer-rag-with-deepseek.streamlit.app/).
+
     
   <h2>🎯 Future Improvements</h2>
     <ul>
