@@ -1,4 +1,3 @@
-
 <body>
     <h1>⚖️ AI Lawyer - RAG with DeepSeek R1</h1>
      <p>An AI-powered legal chatbot that leverages Retrieval-Augmented Generation (RAG) with <strong>DeepSeek R1</strong> and <strong>Ollama</strong> for advanced legal reasoning.</p>
@@ -13,12 +12,17 @@
         <li>📄 Generate downloadable AI-generated legal reports</li>
     </ul>
 
+
+
+
+https://github.com/user-attachments/assets/003b6247-9faa-4c9a-b9b6-e1311d1d61d5
+
+
 ## 📸 Project Demo  
 
 | ![Screenshot 1](assets/photo1.png) | ![Screenshot 2](assets/photo2.png) |  
 |---------------------------------|---------------------------------|  
-| ![Screenshot 3](assets/photo3.png) | ![Screenshot 4](assets/photo4.png) |  
-| ![Screenshot 5](assets/photo5.png) | ![Screenshot 6](assets/photo6.png) |  
+| ![Screenshot 3](assets/photo3.png) | ![Screenshot 4](assets/photo4.png) |   
 
 ---
     
