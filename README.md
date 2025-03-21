@@ -20,9 +20,9 @@ https://github.com/user-attachments/assets/003b6247-9faa-4c9a-b9b6-e1311d1d61d5
 
 ## 📸 Project Demo  
 
-| ![Screenshot 1](assets/photo1.png) | ![Screenshot 2](assets/photo2.png) |  
+| ![Screenshot 1](utils/photo1.png) | ![Screenshot 2](utils/photo2.png) |  
 |---------------------------------|---------------------------------|  
-| ![Screenshot 3](assets/photo3.png) | ![Screenshot 4](assets/photo4.png) |   
+| ![Screenshot 3](utils/photo3.png) | ![Screenshot 4](utils/photo4.png) |   
 
 ---
     
