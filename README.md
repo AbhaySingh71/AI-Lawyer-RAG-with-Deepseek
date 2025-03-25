@@ -120,7 +120,7 @@ The app is deployed on **Streamlit**! You can check out the live version and exp
 
 <h2>🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/abhaysingh71711" target="_blank">🐙 GitHub</a> |
-  <a href="https://linkedin.com/in/abhaysingh71711" target="_blank">🔗 LinkedIn</a> |
-  <a href="https://twitter.com/abhaysingh71711" target="_blank">🐦 Twitter</a>
+  <a href="https://github.com/abhaysingh71" target="_blank">🐙 GitHub</a> |
+  <a href="https://www.linkedin.com/in/abhay-singh-050a5b293/" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://x.com/AbhaySingh71711" target="_blank">🐦 Twitter</a>
 </p>
